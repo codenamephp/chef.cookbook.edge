@@ -1,11 +1,12 @@
 # Changelog
 
-## [0.0.1](https://github.com/codenamephp/chef.cookbook.edge/tree/0.0.1) (2021-04-10)
+## [1.0.0](https://github.com/codenamephp/chef.cookbook.edge/tree/1.0.0) (2021-04-10)
 
-[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/f4448e38e33d59bd7bc2d6aca364330a76ef0be6...0.0.1)
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/f4448e38e33d59bd7bc2d6aca364330a76ef0be6...1.0.0)
 
 **Merged pull requests:**
 
+- Initial release [\#2](https://github.com/codenamephp/chef.cookbook.edge/pull/2) ([bastianschwarz](https://github.com/bastianschwarz))
 - Initial release [\#1](https://github.com/codenamephp/chef.cookbook.edge/pull/1) ([bastianschwarz](https://github.com/bastianschwarz))
 
 
