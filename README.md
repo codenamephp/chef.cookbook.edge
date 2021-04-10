@@ -1,7 +1,7 @@
 # Chef Cookbook
 [![CI](https://github.com/codenamephp/chef.cookbook.edge/actions/workflows/ci.yml/badge.svg)](https://github.com/codenamephp/chef.cookbook.edge/actions/workflows/ci.yml)
 
-Cookbook to install the Microsoft Edge browser
+Cookbook to install the Microsoft Edge browser. Bear in mind that this is currently the dev/insider version: https://www.microsoftedgeinsider.com/en-us/download/
 
 ## Requirements
 
@@ -47,5 +47,31 @@ codenamephp_edge_apt_repository 'Add apt repository'
 # Remove the repository
 codenamephp_edge_apt_repository 'Remove apt repository' do
   action :remove
+end
+```
+
+### package
+This resource manages (installs/removes) the apt package
+
+#### Actions
+- `:install`: Installs the pacakge from the apt repository
+- `:remove`: Removes package
+
+#### Properties
+- `package_name`: The name that is used for apt install, default 'microsoft-edge-dev'
+
+#### Examples
+```ruby
+# Minmal parameters
+codenamephp_edge_package 'Install edge'
+
+# Remove the package
+codenamephp_edge_package 'Remove edge'
+  action :remove
+end
+
+# Custom package name
+codenamephp_edge_package 'Install edge' do
+  package_name 'microsoft-edge'
 end
 ```
