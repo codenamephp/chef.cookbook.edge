@@ -21,6 +21,7 @@ Then use the resources to add the repository:
 
 ```ruby
 codenamephp_edge_apt_repository 'Add apt repository'
+codenamephp_edge_package 'Install edge'
 ```
 
 ## Resources
