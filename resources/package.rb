@@ -1,3 +1,4 @@
+unified_mode true
 property :package_name, String, default: 'microsoft-edge-dev', description: 'The name of the apt package'
 
 action :install do

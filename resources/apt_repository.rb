@@ -1,3 +1,4 @@
+unified_mode true
 property :uri, String, default: 'https://packages.microsoft.com/repos/edge', description: 'The uri of the repository'
 property :repo_name, String, default: 'microsoft-edge', description: 'The name of the repo (the name in the sources.list.d folder)'
 property :components, Array, default: %w(main)
