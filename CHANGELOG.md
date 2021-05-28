@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.0](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.0) (2021-05-28)
+
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.0.0...1.1.0)
+
+**Implemented enhancements:**
+
+- Add unified mode to resources [\#10](https://github.com/codenamephp/chef.cookbook.edge/pull/10) ([bastianschwarz](https://github.com/bastianschwarz))
+
+**Merged pull requests:**
+
+- Bump tubone24/update\_release from 1.1.0 to 1.2.0 [\#9](https://github.com/codenamephp/chef.cookbook.edge/pull/9) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump patrickjahns/version-drafter-action from 1 to 1.1.2 [\#8](https://github.com/codenamephp/chef.cookbook.edge/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump charmixer/auto-changelog-action from 1 to 1.4 [\#7](https://github.com/codenamephp/chef.cookbook.edge/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump EndBug/add-and-commit from 7 to 7.2.1 [\#6](https://github.com/codenamephp/chef.cookbook.edge/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump repo-sync/pull-request from 2 to 2.6 [\#5](https://github.com/codenamephp/chef.cookbook.edge/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Release [\#3](https://github.com/codenamephp/chef.cookbook.edge/pull/3) ([bastianschwarz](https://github.com/bastianschwarz))
+
 ## [1.0.0](https://github.com/codenamephp/chef.cookbook.edge/tree/1.0.0) (2021-04-10)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/f4448e38e33d59bd7bc2d6aca364330a76ef0be6...1.0.0)
