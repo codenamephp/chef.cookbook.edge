@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/codenamephp/chef.cookbook.edge/tree/HEAD)
+
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump EndBug/add-and-commit from 7.2.1 to 7.3.0 [\#13](https://github.com/codenamephp/chef.cookbook.edge/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump bobheadxi/deployments from 0.5.2 to 0.6.0 [\#12](https://github.com/codenamephp/chef.cookbook.edge/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.1.0](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.0) (2021-05-28)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.0.0...1.1.0)
