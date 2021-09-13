@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/codenamephp/chef.cookbook.edge/tree/HEAD)
+## [1.1.1](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.1) (2021-09-13)
 
-[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...HEAD)
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...1.1.1)
 
 **Merged pull requests:**
 
+- Bump patrickjahns/version-drafter-action from 1.1.2 to 1.2.0 [\#14](https://github.com/codenamephp/chef.cookbook.edge/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump EndBug/add-and-commit from 7.2.1 to 7.3.0 [\#13](https://github.com/codenamephp/chef.cookbook.edge/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump bobheadxi/deployments from 0.5.2 to 0.6.0 [\#12](https://github.com/codenamephp/chef.cookbook.edge/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
