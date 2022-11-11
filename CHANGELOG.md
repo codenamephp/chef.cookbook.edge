@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.1](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.1) (2021-12-29)
+## [1.1.1](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.1) (2022-11-11)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...1.1.1)
 
