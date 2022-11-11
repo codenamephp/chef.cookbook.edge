@@ -1,0 +1,17 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "onCreateCommand": {
+    "install-chef": "curl https://omnitruck.chef.io/install.sh | sudo bash -s -- -P chef-workstation -c stable"
+  },
+  "customizations": {
+	  "vscode": {
+			"settings": {},
+			"extensions": [
+      	"chef-software.Chef"
+      ]
+    }
+	},
+  "containerEnv": {
+    "KITCHEN_LOCAL_YAML": "kitchen.dokken.yml"
+  }
+}
