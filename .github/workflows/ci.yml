@@ -19,3 +19,4 @@ env:
 jobs:
   ci:
    uses: codenamephp/workflows.chef/.github/workflows/ci.yml@main
+   secrets: inherit
