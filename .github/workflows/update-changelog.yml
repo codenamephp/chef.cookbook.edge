@@ -8,3 +8,5 @@ on:
 jobs:
   update_changelog:
     uses: codenamephp/workflows.common/.github/workflows/update-changelog.yml@main
+    with:
+      ref: ${{github.ref_name}}
