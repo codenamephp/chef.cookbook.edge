@@ -7,7 +7,7 @@ on:
 
 jobs:
   prepareRelase:
-    uses: codenamephp/workflows.chef/blob/main/.github/workflows/prepare-release.yml@main
+    uses: codenamephp/workflows.chef/.github/workflows/prepare-release.yml@main
     with:
       ref: ${{github.ref_name}}
     secrets: inherit
