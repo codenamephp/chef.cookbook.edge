@@ -1,11 +1,13 @@
 # Changelog
 
-## [Unreleased](https://github.com/codenamephp/chef.cookbook.edge/tree/HEAD)
+## [1.1.1](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.1) (2022-11-12)
 
-[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...HEAD)
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...1.1.1)
 
 **Merged pull requests:**
 
+- Fixed the path to the workflow [\#32](https://github.com/codenamephp/chef.cookbook.edge/pull/32) ([bastianschwarz](https://github.com/bastianschwarz))
+- Workflow/release [\#31](https://github.com/codenamephp/chef.cookbook.edge/pull/31) ([bastianschwarz](https://github.com/bastianschwarz))
 - Let's see if this works [\#30](https://github.com/codenamephp/chef.cookbook.edge/pull/30) ([bastianschwarz](https://github.com/bastianschwarz))
 - Bump bobheadxi/deployments from 0.6.1 to 0.6.2 [\#17](https://github.com/codenamephp/chef.cookbook.edge/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump tubone24/update\_release from 1.2.0 to 1.3.1 [\#16](https://github.com/codenamephp/chef.cookbook.edge/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
