@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.1.1](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.1) (2022-11-12)
+
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.1.0...1.1.1)
+
+**Merged pull requests:**
+
+- Fixed the path to the workflow [\#32](https://github.com/codenamephp/chef.cookbook.edge/pull/32) ([bastianschwarz](https://github.com/bastianschwarz))
+- Workflow/release [\#31](https://github.com/codenamephp/chef.cookbook.edge/pull/31) ([bastianschwarz](https://github.com/bastianschwarz))
+- Let's see if this works [\#30](https://github.com/codenamephp/chef.cookbook.edge/pull/30) ([bastianschwarz](https://github.com/bastianschwarz))
+- Bump bobheadxi/deployments from 0.6.1 to 0.6.2 [\#17](https://github.com/codenamephp/chef.cookbook.edge/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump tubone24/update\_release from 1.2.0 to 1.3.1 [\#16](https://github.com/codenamephp/chef.cookbook.edge/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump bobheadxi/deployments from 0.6.0 to 0.6.1 [\#15](https://github.com/codenamephp/chef.cookbook.edge/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump patrickjahns/version-drafter-action from 1.1.2 to 1.2.0 [\#14](https://github.com/codenamephp/chef.cookbook.edge/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump EndBug/add-and-commit from 7.2.1 to 7.3.0 [\#13](https://github.com/codenamephp/chef.cookbook.edge/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump bobheadxi/deployments from 0.5.2 to 0.6.0 [\#12](https://github.com/codenamephp/chef.cookbook.edge/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.1.0](https://github.com/codenamephp/chef.cookbook.edge/tree/1.1.0) (2021-05-28)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.edge/compare/1.0.0...1.1.0)
